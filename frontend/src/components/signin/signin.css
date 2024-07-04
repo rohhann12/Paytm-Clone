@@ -1,0 +1,39 @@
+.container {
+    background-color: rgb(214, 206, 206);
+}
+
+.heading {
+    margin-left: 860px;
+    margin-top: 100px;
+}
+.heading2{
+    margin-left: 700px;
+    margin-top: 20px;
+    font-weight: 800;
+    font-size: 2em;
+}
+.main {
+    margin-top: 50px;
+    margin-left: 800px;
+}
+
+.firstInput, .secondInput {
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 200px;
+}
+
+.button {
+    padding: 10px 20px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: whitesmoke;
+}
+.LastLine{
+    font-weight: 800;
+    font-size: larger;
+}
